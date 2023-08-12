@@ -1,6 +1,6 @@
 # CentralizedDroneNetwork
 Android Studio files for centralized drone network <br />
-Centralized networks are vulnerable to hacking compared to decentralized nerworks.<br />
+Centralized networks are vulnerable to hacking compared to decentralized networks.<br />
 This app is a simulation for a hacking example of a centralized drone network with one ground station and four drones.
 
 ## How to Use
